@@ -1,0 +1,8 @@
+mcp
+mcp[cli]
+uv
+fastmcp
+browser-use
+playwright
+langchain-openai
+python-dotenv
